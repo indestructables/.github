@@ -1,5 +1,5 @@
 <div align="center">
-<img src="static/img/logo.png">
+<img src="https://codeberg.org/indestructables/indestructables/media/branch/main/static/img/logo.png">
 <h1>Indestructables</h1>
 An open source alternative front-end to Instructables
 
